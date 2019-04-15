@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Entity\\UserFollow",
+    "to_class": "Jrahmy\\FollowerBreakout\\XF\\Entity\\UserFollow",
+    "execute_order": 0,
+    "active": true
+}
